@@ -1,0 +1,24 @@
+# Environment variables
+.env
+.streamlit/secrets.toml
+
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Arduino build files
+build/
+*.elf
+*.hex
+*.bin
+
+# IDE and OS files
+.DS_Store
+Thumbs.db
